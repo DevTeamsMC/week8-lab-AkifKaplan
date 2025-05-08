@@ -1,0 +1,114 @@
+Tarih;Kolay;cumhuriyet;Atatürk'ün ilan ettiği yönetim şekli
+Tarih;Kolay;osman;Osmanlı'nın kurucusu
+Tarih;Kolay;fatih;İstanbul'u fetheden padişah
+Tarih;Kolay;zafer;Savaşın kazanılması
+Tarih;Kolay;baris;Savaşsız dönem
+Tarih;Kolay;hitit;Anadolu'da kurulan ilk uygarlıklardan
+Tarih;Kolay;kanuni;En uzun süre tahtta kalan padişah
+
+Tarih;Orta;lozan;Türkiye Cumhuriyeti'ni tanıyan antlaşma
+Tarih;Orta;kapitülasyon;Yabancılara verilen ekonomik ayrıcalık
+Tarih;Orta;tanzimat;Osmanlı'da ıslahat dönemi
+Tarih;Orta;enkaz;Savaş sonrası yıkım
+Tarih;Orta;ferman;Padişah emri
+Tarih;Orta;isyan;Yönetime karşı başkaldırı
+Tarih;Orta;sancak;Osmanlı eyalet sistemi
+
+Tarih;Zor;senediittifak;Padişah ile ayanlar arası ilk sözleşme
+Tarih;Zor;divanihümayun;Osmanlı yönetim meclisi
+Tarih;Zor;takvimivekayi;İlk Osmanlı gazetesi
+Tarih;Zor;anadoluajansi;Atatürk'ün kurduğu haber ajansı
+Tarih;Zor;tevhiditesisat;Eğitim birliği kanunu
+Tarih;Zor;mehmetakifersoy;İstiklal Marşı yazarı
+
+Coğrafya;Kolay;dag;Yükseltiye sahip yer şekli
+Coğrafya;Kolay;nehir;Sürekli akan tatlı su
+Coğrafya;Kolay;göl;Kara içinde su birikintisi
+Coğrafya;Kolay;iklim;Uzun süreli hava koşulları
+Coğrafya;Kolay;kıta;Yeryüzündeki büyük kara parçaları
+Coğrafya;Kolay;deniz;Tuzlu büyük su kütlesi
+Coğrafya;Kolay;orman;Ağaçların yoğun olduğu alan
+
+Coğrafya;Orta;volkan;Ateş püskürten dağ
+Coğrafya;Orta;delta;Nehirlerin denize döküldüğü yer
+Coğrafya;Orta;çöl;Yağışın çok az olduğu yer
+Coğrafya;Orta;fay;Deprem hattı
+Coğrafya;Orta;meridyen;Boylam çizgileri
+Coğrafya;Orta;ekvator;Dünyanın ortasından geçen hayali çizgi
+Coğrafya;Orta;yeryüzü;Dünyanın dış katmanı
+
+Coğrafya;Zor;oksijen;Havanın solunabilir kısmı
+Coğrafya;Zor;akarsu;Sürekli akan su kaynakları
+Coğrafya;Zor;litoloji;Taşların bilimsel incelenmesi
+Coğrafya;Zor;biyoçeşitlilik;Canlı türlerinin zenginliği
+Coğrafya;Zor;batolit;Yer kabuğundaki dev granit kütle
+Coğrafya;Zor;geoit;Dünyanın gerçek şekli
+
+Matematik;Kolay;sayi;Rakamların oluşturduğu kavram
+Matematik;Kolay;toplama;İki sayıyı birleştirme işlemi
+Matematik;Kolay;çıkarma;Eksiltme işlemi
+Matematik;Kolay;çarpma;Katlama işlemi
+Matematik;Kolay;bolme;Bölüştürme işlemi
+Matematik;Kolay;geometri;Şekillerle ilgilenen dal
+Matematik;Kolay;açı;İki doğrunun birleştiği nokta
+
+Matematik;Orta;üçgen;Üç kenarlı şekil
+Matematik;Orta;kare;Dört eş kenarlı şekil
+Matematik;Orta;pi;3.14 ile başlayan sabit
+Matematik;Orta;faktöriyel;n! sembolüyle gösterilir
+Matematik;Orta;asal;Sadece 1 ve kendisine bölünen sayı
+Matematik;Orta;denklem;Eşitlik içeren matematiksel ifade
+Matematik;Orta;oran;İki niceliğin karşılaştırılması
+
+Matematik;Zor;türev;Anlık değişim hızı
+Matematik;Zor;integral;Alan hesaplama işlemi
+Matematik;Zor;limit;Fonksiyonun yaklaşım değeri
+Matematik;Zor;matris;Sayıların tablosal dizilişi
+Matematik;Zor;logaritma;Üstel denklemlerin ters işlemi
+Matematik;Zor;determinant;Bir matrisin özel değeri
+
+Genel Kültür;Kolay;internet;Bilgiye ulaşmayı sağlayan ağ
+Genel Kültür;Kolay;televizyon;Görüntülü yayın aracı
+Genel Kültür;Kolay;kitap;Okuma materyali
+Genel Kültür;Kolay;sinema;Film izleme yeri
+Genel Kültür;Kolay;telefon;Sesli iletişim aracı
+Genel Kültür;Kolay;müzik;Sesle yapılan sanat
+Genel Kültür;Kolay;resim;Görsel sanat eseri
+
+Genel Kültür;Orta;astronomi;Gökyüzü cisimlerini inceleyen bilim
+Genel Kültür;Orta;arkeoloji;Kazılarla geçmişi inceleyen bilim
+Genel Kültür;Orta;filozof;Düşünceyle uğraşan kişi
+Genel Kültür;Orta;mitoloji;Tanrılarla ilgili hikayeler bütünü
+Genel Kültür;Orta;opera;Sözlü klasik sahne sanatı
+Genel Kültür;Orta;karikatür;Mizah içeren çizim
+Genel Kültür;Orta;robotik;Makine ve yazılım birleşimi
+
+Genel Kültür;Zor;sosyoloji;Toplumları inceleyen bilim dalı
+Genel Kültür;Zor;etnografya;Kültürleri inceleyen bilim
+Genel Kültür;Zor;semiotik;Gösterge bilimi
+Genel Kültür;Zor;antropoloji;İnsanın evrimini inceleyen bilim
+Genel Kültür;Zor;narsisizm;Kendine hayranlık durumu
+Genel Kültür;Zor;anagram;Harflerin yer değişimiyle oluşan kelime
+
+Karma;Kolay;elma;Yenilebilen bir meyve
+Karma;Kolay;masa;Üzerine eşya konur
+Karma;Kolay;silgi;Yazı silmeye yarar
+Karma;Kolay;araba;Ulaşım aracı
+Karma;Kolay;oyun;Eğlenceli vakit geçirme aracı
+Karma;Kolay;çanta;Eşyaları taşımaya yarar
+Karma;Kolay;kalem;Yazı yazma aracı
+
+Karma;Orta;kamera;Görüntü kaydeden cihaz
+Karma;Orta;termometre;Sıcaklığı ölçen alet
+Karma;Orta;parola;Güvenlik için girilen kelime
+Karma;Orta;internet;Bilgi ağı
+Karma;Orta;hesap;Toplama, çıkarma işlemi
+Karma;Orta;kodlama;Bilgisayar programlama
+Karma;Orta;uygulama;Mobil cihazda çalışan yazılım
+
+Karma;Zor;kriptografi;Şifreleme bilimi
+Karma;Zor;mikroskop;Küçük şeyleri büyütmeye yarar
+Karma;Zor;algoritma;Adım adım çözüm yöntemi
+Karma;Zor;nöroloji;Beyin ve sinir bilimi
+Karma;Zor;sanayi;Endüstriyel üretim alanı
+Karma;Zor;analitik;Çözümlemeye dayalı düşünme

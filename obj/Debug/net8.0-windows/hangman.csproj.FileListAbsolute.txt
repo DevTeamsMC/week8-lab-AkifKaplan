@@ -1,0 +1,327 @@
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\hangman.exe
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\hangman.deps.json
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\hangman.runtimeconfig.json
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\hangman.dll
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\hangman.pdb
+C:\Users\zumuz\source\repos\hangman\obj\Debug\net8.0-windows\hangman.Form1.resources
+C:\Users\zumuz\source\repos\hangman\obj\Debug\net8.0-windows\hangman.csproj.GenerateResource.cache
+C:\Users\zumuz\source\repos\hangman\obj\Debug\net8.0-windows\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zumuz\source\repos\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfoInputs.cache
+C:\Users\zumuz\source\repos\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfo.cs
+C:\Users\zumuz\source\repos\hangman\obj\Debug\net8.0-windows\hangman.csproj.CoreCompileInputs.cache
+C:\Users\zumuz\source\repos\hangman\obj\Debug\net8.0-windows\hangman.dll
+C:\Users\zumuz\source\repos\hangman\obj\Debug\net8.0-windows\refint\hangman.dll
+C:\Users\zumuz\source\repos\hangman\obj\Debug\net8.0-windows\hangman.pdb
+C:\Users\zumuz\source\repos\hangman\obj\Debug\net8.0-windows\hangman.genruntimeconfig.cache
+C:\Users\zumuz\source\repos\hangman\obj\Debug\net8.0-windows\ref\hangman.dll
+C:\Users\zumuz\source\repos\hangman\obj\Debug\net8.0-windows\hangman.Form2.resources
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\Resources\cover.jpg
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\Resources\cover2.jpg
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\Resources\man-01.jpg
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\Resources\man-02.jpg
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\Resources\man-03.jpg
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\Resources\man-04.jpg
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\Resources\man-05.jpg
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\Resources\man-06.jpg
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\Resources\man-07.jpg
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\Resources\man-08.jpg
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\Resources\man-09.jpg
+C:\Users\zumuz\source\repos\hangman\bin\Debug\net8.0-windows\Resources\man-10.jpg
+C:\Users\zumuz\source\repos\hangman\obj\Debug\net8.0-windows\hangman.Properties.Resources.resources
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\cover.jpg
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\cover2.jpg
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-01.jpg
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-02.jpg
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-03.jpg
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-04.jpg
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-05.jpg
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-06.jpg
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-07.jpg
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-08.jpg
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-09.jpg
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-10.jpg
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.exe
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.deps.json
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.runtimeconfig.json
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.dll
+C:\Users\akifk\Desktop\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.pdb
+C:\Users\akifk\Desktop\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.Form1.resources
+C:\Users\akifk\Desktop\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.Form2.resources
+C:\Users\akifk\Desktop\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.Properties.Resources.resources
+C:\Users\akifk\Desktop\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.csproj.GenerateResource.cache
+C:\Users\akifk\Desktop\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\Desktop\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfoInputs.cache
+C:\Users\akifk\Desktop\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfo.cs
+C:\Users\akifk\Desktop\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.csproj.CoreCompileInputs.cache
+C:\Users\akifk\Desktop\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.dll
+C:\Users\akifk\Desktop\HangManFiles\hangman\obj\Debug\net8.0-windows\refint\hangman.dll
+C:\Users\akifk\Desktop\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.pdb
+C:\Users\akifk\Desktop\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.genruntimeconfig.cache
+C:\Users\akifk\Desktop\HangManFiles\hangman\obj\Debug\net8.0-windows\ref\hangman.dll
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\cover.jpg
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\cover2.jpg
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-01.jpg
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-02.jpg
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-03.jpg
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-04.jpg
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-05.jpg
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-06.jpg
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-07.jpg
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-08.jpg
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-09.jpg
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-10.jpg
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.exe
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.deps.json
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.runtimeconfig.json
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.dll
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.pdb
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.Form1.resources
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.Form2.resources
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.Properties.Resources.resources
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.csproj.GenerateResource.cache
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfoInputs.cache
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfo.cs
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.csproj.CoreCompileInputs.cache
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.dll
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\refint\hangman.dll
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.pdb
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.genruntimeconfig.cache
+C:\Users\yyama\OneDrive\Masaüstü\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\ref\hangman.dll
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\cover.jpg
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\cover2.jpg
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-01.jpg
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-02.jpg
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-03.jpg
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-04.jpg
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-05.jpg
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-06.jpg
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-07.jpg
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-08.jpg
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-09.jpg
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\Resources\man-10.jpg
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.exe
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.deps.json
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.runtimeconfig.json
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.dll
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\bin\Debug\net8.0-windows\hangman.pdb
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.Form1.resources
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.Form2.resources
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.Properties.Resources.resources
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.csproj.GenerateResource.cache
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfoInputs.cache
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfo.cs
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.csproj.CoreCompileInputs.cache
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.dll
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\refint\hangman.dll
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.pdb
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\hangman.genruntimeconfig.cache
+C:\Users\akifk\Desktop\akkk\yeniiiiii\HangManFiles\hangman\obj\Debug\net8.0-windows\ref\hangman.dll
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\Resources\cover.jpg
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\Resources\cover2.jpg
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\Resources\man-01.jpg
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\Resources\man-02.jpg
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\Resources\man-03.jpg
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\Resources\man-04.jpg
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\Resources\man-05.jpg
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\Resources\man-06.jpg
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\Resources\man-07.jpg
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\Resources\man-08.jpg
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\Resources\man-09.jpg
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\Resources\man-10.jpg
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\hangman.exe
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\hangman.deps.json
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\hangman.runtimeconfig.json
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\hangman.dll
+C:\Users\akifk\Desktop\hangman\bin\Debug\net8.0-windows\hangman.pdb
+C:\Users\akifk\Desktop\hangman\obj\Debug\net8.0-windows\hangman.Form1.resources
+C:\Users\akifk\Desktop\hangman\obj\Debug\net8.0-windows\hangman.Form2.resources
+C:\Users\akifk\Desktop\hangman\obj\Debug\net8.0-windows\hangman.Properties.Resources.resources
+C:\Users\akifk\Desktop\hangman\obj\Debug\net8.0-windows\hangman.csproj.GenerateResource.cache
+C:\Users\akifk\Desktop\hangman\obj\Debug\net8.0-windows\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\Desktop\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfoInputs.cache
+C:\Users\akifk\Desktop\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfo.cs
+C:\Users\akifk\Desktop\hangman\obj\Debug\net8.0-windows\hangman.csproj.CoreCompileInputs.cache
+C:\Users\akifk\Desktop\hangman\obj\Debug\net8.0-windows\hangman.dll
+C:\Users\akifk\Desktop\hangman\obj\Debug\net8.0-windows\refint\hangman.dll
+C:\Users\akifk\Desktop\hangman\obj\Debug\net8.0-windows\hangman.pdb
+C:\Users\akifk\Desktop\hangman\obj\Debug\net8.0-windows\hangman.genruntimeconfig.cache
+C:\Users\akifk\Desktop\hangman\obj\Debug\net8.0-windows\ref\hangman.dll
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\Resources\cover.jpg
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\Resources\cover2.jpg
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\Resources\man-01.jpg
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\Resources\man-02.jpg
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\Resources\man-03.jpg
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\Resources\man-04.jpg
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\Resources\man-05.jpg
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\Resources\man-06.jpg
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\Resources\man-07.jpg
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\Resources\man-08.jpg
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\Resources\man-09.jpg
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\Resources\man-10.jpg
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\hangman.exe
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\hangman.deps.json
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\hangman.runtimeconfig.json
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\hangman.dll
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\hangman.pdb
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\obj\Debug\net8.0-windows\hangman.Form1.resources
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\obj\Debug\net8.0-windows\hangman.Form2.resources
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\obj\Debug\net8.0-windows\hangman.Properties.Resources.resources
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\obj\Debug\net8.0-windows\hangman.csproj.GenerateResource.cache
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\obj\Debug\net8.0-windows\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfoInputs.cache
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfo.cs
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\obj\Debug\net8.0-windows\hangman.csproj.CoreCompileInputs.cache
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\obj\Debug\net8.0-windows\hangman.dll
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\obj\Debug\net8.0-windows\refint\hangman.dll
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\obj\Debug\net8.0-windows\hangman.pdb
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\obj\Debug\net8.0-windows\hangman.genruntimeconfig.cache
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\obj\Debug\net8.0-windows\ref\hangman.dll
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\Resources\png-transparent-settings-gear-icon-gear-configuration-set-up-thumbnail.png
+C:\Users\yyama\OneDrive\Masaüstü\152120221096_152120221075_13\hangman\bin\Debug\net8.0-windows\Resources\png-transparent-computer-icons-gear-setting-area-setting-set.png
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\cover.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\cover2.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\man-01.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\man-02.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\man-03.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\man-04.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\man-05.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\man-06.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\man-07.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\man-08.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\man-09.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\man-10.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\png-transparent-computer-icons-gear-setting-area-setting-set.png
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\png-transparent-settings-gear-icon-gear-configuration-set-up-thumbnail.png
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\hangman.exe
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\hangman.deps.json
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\hangman.runtimeconfig.json
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\hangman.dll
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\hangman.pdb
+C:\Users\akifk\Desktop\hangman\hangman\obj\Debug\net8.0-windows\hangman.Form1.resources
+C:\Users\akifk\Desktop\hangman\hangman\obj\Debug\net8.0-windows\hangman.Form2.resources
+C:\Users\akifk\Desktop\hangman\hangman\obj\Debug\net8.0-windows\hangman.Properties.Resources.resources
+C:\Users\akifk\Desktop\hangman\hangman\obj\Debug\net8.0-windows\hangman.csproj.GenerateResource.cache
+C:\Users\akifk\Desktop\hangman\hangman\obj\Debug\net8.0-windows\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifk\Desktop\hangman\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfoInputs.cache
+C:\Users\akifk\Desktop\hangman\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfo.cs
+C:\Users\akifk\Desktop\hangman\hangman\obj\Debug\net8.0-windows\hangman.csproj.CoreCompileInputs.cache
+C:\Users\akifk\Desktop\hangman\hangman\obj\Debug\net8.0-windows\hangman.dll
+C:\Users\akifk\Desktop\hangman\hangman\obj\Debug\net8.0-windows\refint\hangman.dll
+C:\Users\akifk\Desktop\hangman\hangman\obj\Debug\net8.0-windows\hangman.pdb
+C:\Users\akifk\Desktop\hangman\hangman\obj\Debug\net8.0-windows\hangman.genruntimeconfig.cache
+C:\Users\akifk\Desktop\hangman\hangman\obj\Debug\net8.0-windows\ref\hangman.dll
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\10balon.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\1balon.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\2balon.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\3balon.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\4balon.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\5balon.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\6balon.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\7balon.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\8balon.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\9balon.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\png-transparent-power-button-logo-computer-icons-button-scalable-graphics-crystal-clear-action-exit-miscellaneous-application-software-red-thumbnail.png
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\10yumurta.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\1yumurta.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\2yumurta.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\3yumurta.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\4yumurta.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\5 yumurta.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\6yumurta.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\7yumurta.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\8yumurta.jpg
+C:\Users\akifk\Desktop\hangman\hangman\bin\Debug\net8.0-windows\Resources\9yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\10balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\10yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\1balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\1yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\2balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\2yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\3balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\3yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\4balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\4yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\5 yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\5balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\6balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\6yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\7balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\7yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\8balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\8yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\9balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\9yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\Resources\png-transparent-power-button-logo-computer-icons-button-scalable-graphics-crystal-clear-action-exit-miscellaneous-application-software-red-thumbnail.png
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\hangman.exe
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\hangman.deps.json
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\hangman.runtimeconfig.json
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\hangman.dll
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\bin\Debug\net8.0-windows\hangman.pdb
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\obj\Debug\net8.0-windows\hangman.Form1.resources
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\obj\Debug\net8.0-windows\hangman.Form2.resources
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\obj\Debug\net8.0-windows\hangman.Properties.Resources.resources
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\obj\Debug\net8.0-windows\hangman.csproj.GenerateResource.cache
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\obj\Debug\net8.0-windows\hangman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfoInputs.cache
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfo.cs
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\obj\Debug\net8.0-windows\hangman.csproj.CoreCompileInputs.cache
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\obj\Debug\net8.0-windows\hangman.dll
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\obj\Debug\net8.0-windows\refint\hangman.dll
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\obj\Debug\net8.0-windows\hangman.pdb
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\obj\Debug\net8.0-windows\hangman.genruntimeconfig.cache
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-1 (1)\hangman\obj\Debug\net8.0-windows\ref\hangman.dll
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\10balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\10yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\1balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\1yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\2balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\2yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\3balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\3yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\4balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\4yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\5 yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\5balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\6balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\6yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\7balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\7yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\8balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\8yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\9balon.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\9yumurta.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\png-transparent-power-button-logo-computer-icons-button-scalable-graphics-crystal-clear-action-exit-miscellaneous-application-software-red-thumbnail.png
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\cover.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\cover2.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\man-01.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\man-02.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\man-03.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\man-04.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\man-05.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\man-06.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\man-07.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\man-08.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\man-09.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\man-10.jpg
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\png-transparent-computer-icons-gear-setting-area-setting-set.png
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\Resources\png-transparent-settings-gear-icon-gear-configuration-set-up-thumbnail.png
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\hangman.exe
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\hangman.deps.json
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\hangman.runtimeconfig.json
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\hangman.dll
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\bin\Debug\net8.0-windows\hangman.pdb
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\obj\Debug\net8.0-windows\hangman.Form1.resources
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\obj\Debug\net8.0-windows\hangman.Form2.resources
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\obj\Debug\net8.0-windows\hangman.Properties.Resources.resources
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\obj\Debug\net8.0-windows\hangman.csproj.GenerateResource.cache
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\obj\Debug\net8.0-windows\hangman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfoInputs.cache
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\obj\Debug\net8.0-windows\hangman.AssemblyInfo.cs
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\obj\Debug\net8.0-windows\hangman.csproj.CoreCompileInputs.cache
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\obj\Debug\net8.0-windows\hangman.dll
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\obj\Debug\net8.0-windows\refint\hangman.dll
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\obj\Debug\net8.0-windows\hangman.pdb
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\obj\Debug\net8.0-windows\hangman.genruntimeconfig.cache
+D:\Indirilenler\CENG 2.5\152120221096_152120221075_13-2\hangman\obj\Debug\net8.0-windows\ref\hangman.dll
